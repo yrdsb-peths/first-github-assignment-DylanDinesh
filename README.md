@@ -13,4 +13,4 @@ Do the following to Complete this assignment:
 5. Done!
 
 
-Added to ctest around with GitHub!
+Added to test around with GitHub!
